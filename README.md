@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **shirefhamam@gmail.com**
 
-- ⚡ Fun fact **I'm also a Restorative Dentist**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
