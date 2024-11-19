@@ -23,6 +23,7 @@
 <h6>Bootstrap/SASS</h6>
 <h6>BOM/DOM</h6>
 <h6>ReactJs</h6>
+<h6>React-native</h6>
 <h6>RESTFUL API</h6>
     <h6>NodeJs/ExpressJs</h6>
 <h6>SQL/Squelize</h6>
